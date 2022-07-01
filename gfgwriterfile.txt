@@ -1,0 +1,12 @@
+{
+	"id":123,
+	"writerName":"GeekWriterA",
+	"status":true,
+	"address":{
+			"street":"MG Road",
+			"city":"Bangalore",
+			"zipcode":560100
+		},
+	"phoneNumbers":[1122334455, 1234567890],
+	"role":"HitechWriter"
+}

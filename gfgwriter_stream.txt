@@ -1,0 +1,1 @@
+{"id":100,"writerName":"GeekA","role":"Beginner","status":false,"address":{"street":"MG Road","city":"Bangalore","zipcode":560100},"phoneNumbers":[123456,987654]}
